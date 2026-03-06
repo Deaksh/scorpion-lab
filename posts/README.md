@@ -6,3 +6,4 @@
 - `fitness-paywall-playbook.md`
 - `fitness-paywall-swiftui.md`
 - `fitness-test-post.md`
+- `fitness-trial-vs-no-trial-experiment.md`
