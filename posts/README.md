@@ -7,3 +7,4 @@
 - `fitness-paywall-swiftui.md`
 - `fitness-test-post.md`
 - `fitness-trial-vs-no-trial-experiment.md`
+- `fitness-workout-streak-retention-guide.md`
