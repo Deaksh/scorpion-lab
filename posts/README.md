@@ -1,6 +1,8 @@
 # Posts
 
-- `fitness-paywall-swiftui.md`
 - `about-scorpion.md`
-- `education-cohort-vs-subscription.md`
 - `creator-tools-pro-unlocks.md`
+- `education-cohort-vs-subscription.md`
+- `fitness-paywall-playbook.md`
+- `fitness-paywall-swiftui.md`
+- `fitness-test-post.md`

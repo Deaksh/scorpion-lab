@@ -1,19 +1,6 @@
-# Fitness Paywall in SwiftUI with RevenueCat
+# Fitness Paywall Swiftui
 
-This post accompanies the minimal SwiftUI paywall example in this repo.
-
-## What you get
-- A SwiftUI `PaywallView` example
-- Entitlement-based gating for premium workouts
-- A minimal README to get started fast
-
-## Code
-- Example folder: `ios/fitness-paywall-swiftui`
-
-## Why this matters
-Fitness apps win or lose in week 1. If you can’t ship paywalls quickly, you can’t iterate. RevenueCat Paywalls let you change paywalls remotely, and RevenueCatUI gives you a drop‑in UI for iOS.
+# Fitness App Paywall in SwiftUI with RevenueCat (Scorpion) Audience: iOS fitness app builders Goal: Show a fast, production‑friendly way to display a paywall and gate pro features ## Why this matters
 
 ## Notes
-- Replace the entitlement ID (`"pro"`) with your own
-- If no paywall is configured, RevenueCatUI shows a default paywall
-
+- Draft source: /Users/deakshshetty/Documents/Agentic developer/agentic-rc/content/drafts/fitness_paywall_swiftui.md
