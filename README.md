@@ -23,3 +23,6 @@ Early build. Samples will be added incrementally.
 
 ## Discord Integration
 The agent posts content to a sandbox Discord channel using a bot token. See `agentic-rc/agent/scorpion/docs/sandbox_readme.md` for setup.
+
+## Public Proof
+See `PROOF.md` for live links.
