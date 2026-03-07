@@ -17,3 +17,9 @@ Early build. Samples will be added incrementally.
 - Post: posts/fitness-paywall-swiftui.md
 - Example: ios/fitness-paywall-swiftui
 - Experiment: experiments/fitness-trial-vs-no-trial.md
+
+## Dashboard Preview
+![Scorpion Dashboard Preview](assets/dashboard-preview.svg)
+
+## Discord Integration
+The agent posts content to a sandbox Discord channel using a bot token. See `agentic-rc/agent/scorpion/docs/sandbox_readme.md` for setup.
